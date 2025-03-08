@@ -64,11 +64,6 @@ Surprisingly, in B2C sales, women are leading the shopping spree with 64% of tot
 The 18-49 age group dominates sales, proving that middle-aged and young adults are our core shoppers.<br/>
 A surprising twist: Women are shopping more than men! (64% vs. 36%)<br/>
 This reinforces the idea that the store should focus on expanding women’s fashion and related categories.
-### Delivery Performance Status
-92% of orders are successfully delivered – a great sign of operational efficiency.<br/>
-However, 3% cancellations, 3% returns, and 2% refunds indicate some friction points that may need attention.
-### Revenue by Month jan to dec (2022) – What’s Going On?
-Monthly revenue is on a downward trend, from ₹1.9M to ₹1.65M.
 ### Most selling Category
 Kurta, western dresses, and sets are our top-performing categories.<br/>
 On the other side, five other categories are struggling.<br/>
@@ -80,6 +75,11 @@ However, 4XL, 5XL, and 6XL aren’t performing well.<br/>
 ### The 80/20 Rule in Action (Pareto Analysis)
 Here’s a game-changing insight: 50% of our SKUs are generating 90% of the revenue, while the remaining 50% contribute just 10%.<br/>
 This means half of our products are the real money-makers, and the other half may need reconsideration—either better promotion or discontinuation.
+### Delivery Performance Status
+92% of orders are successfully delivered – a great sign of operational efficiency.<br/>
+However, 3% cancellations, 3% returns, and 2% refunds indicate some friction points that may need attention.
+### Revenue by Month jan to dec (2022) – What’s Going On?
+Monthly revenue is on a downward trend, from ₹1.9M to ₹1.65M.
 ## Conclusion
 Focus on B2C sales, as they drive nearly all revenue.<br/>
 Enhance marketing for women’s fashion, as it’s a high-performing segment.<br/>
