@@ -80,15 +80,12 @@ However, 4XL, 5XL, and 6XL aren’t performing well.<br/>
 ### The 80/20 Rule in Action (Pareto Analysis)
 Here’s a game-changing insight: 50% of our SKUs are generating 90% of the revenue, while the remaining 50% contribute just 10%.<br/>
 This means half of our products are the real money-makers, and the other half may need reconsideration—either better promotion or discontinuation.
-## Key Takeaways & Action Plan
+## Conclusion
 Focus on B2C sales, as they drive nearly all revenue.<br/>
 Enhance marketing for women’s fashion, as it’s a high-performing segment.<br/>
 Rethink about underperforming categories and sizes to optimize inventory.<br/>
 Strengthen sales channels beyond Amazon, Flipkart, and Myntra to reduce reliance on a few platforms.<br/>
 Prioritize top-performing SKUs and consider phasing out slow-moving products.<br/>
-
-## Conclusion
-
 
 
 ## How to Use the Dashboard
